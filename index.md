@@ -19,6 +19,7 @@
 ### Wordpress Jobs
 
 - [MecoCorp](http://www.mecocorp.com/)
+- [Test](playstore)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
